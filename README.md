@@ -2,7 +2,8 @@
 
 A Python utility for processing WebVTT subtitle files and converting SRT files to VTT format.
 
-![VTT Processor Screenshot](screenshot.png)
+<img width="596" alt="Screenshot 2025-03-16 at 21 31 08" src="https://github.com/user-attachments/assets/00d8b406-ce2b-4c67-8fe9-19ef16ba9870" />
+
 
 ## Features
 
