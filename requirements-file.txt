@@ -1,0 +1,2 @@
+# No external dependencies required - uses standard Python libraries
+# This file is included for compatibility with standard Python packaging practices
